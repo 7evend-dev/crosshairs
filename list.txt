@@ -1,1 +1,2 @@
 circle_v1.png
+plus.png
