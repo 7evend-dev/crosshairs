@@ -5,3 +5,5 @@ def_finger.png
 Crazy.png
 black_dot.png
 blue.png
+skulls_v1.png
+skulls_v2.png
