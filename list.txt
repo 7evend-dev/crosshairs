@@ -3,3 +3,5 @@ plus.png
 def_crosshair.png
 def_finger.png
 Crazy.png
+black_dot.png
+blue.png
