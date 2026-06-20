@@ -1,7 +1,5 @@
 circle_v1.png
 plus.png
-def_crosshair.png
-def_finger.png
 black_dot.png
 blue.png
 skulls_v1.png
