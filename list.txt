@@ -4,3 +4,4 @@ black_dot.png
 blue.png
 skulls_v1.png
 black_white.png
+white_skl.png
