@@ -6,3 +6,4 @@ skulls_v1.png
 black_white.png
 white_skl.png
 black_plus.png
+aa.png
